@@ -1,0 +1,31 @@
+.outerContainer {
+    direction: rtl;
+    width: 50%;
+    margin: auto;
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 1em;
+    padding: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fieldsContainer {
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.field {
+    margin: 1em 0;
+
+}
+
+.loginButton {
+    background-color: rgb(32, 172, 0);
+    width: 100%;
+    border-radius: 10px;
+}
