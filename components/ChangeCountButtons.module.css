@@ -1,0 +1,9 @@
+.outerContainer{
+    background-color: rgb(153, 255, 175);
+    display: flex;
+    justify-content: space-between;
+    width: 5em;
+    padding: 5px;
+    margin: 1em auto;
+    border-radius: 5px;
+}

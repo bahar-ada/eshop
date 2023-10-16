@@ -1,0 +1,14 @@
+.outerContainer{
+    display: flex;
+    justify-content: space-between;
+    direction: rtl;
+    padding: 2em;
+}
+.rightContainer{
+display: flex;
+align-items: center;
+}
+.leftContainer{
+display: flex;
+align-items: center;
+}

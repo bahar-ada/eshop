@@ -1,0 +1,11 @@
+.label{
+    background-color: rgb(216, 5, 5);
+    color: aliceblue;
+    width: 10em;
+    padding: 4px;
+    margin: 1em;  
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+
+}
